@@ -1,4 +1,4 @@
-### Visit my Todo-List live up [Click Here](https://github.com/facebook/create-react-app).
+### To visit my Todo-List [Click Here](https://github.com/facebook/create-react-app).
 
 # Getting Started with Create React App
 
